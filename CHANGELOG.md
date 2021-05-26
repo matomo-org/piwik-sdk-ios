@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+* **feature** Added support for watchOS. [#352](https://github.com/matomo-org/matomo-sdk-ios/issues/352)
 * **improvement** Fixed build warnings
 
 ## 7.4.0
